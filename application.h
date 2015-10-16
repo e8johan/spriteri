@@ -5,6 +5,10 @@
 
 class Screen;
 
+/*
+ * The application represents the singletons in the system, e.g. event loop and
+ * main screen.
+ */
 class Application
 {
 public:

@@ -6,6 +6,9 @@
 struct SDL_Surface;
 class Surface;
 
+/*
+ * A surface represents a graphical surface with graphical operations.
+ */
 class Surface
 {
 public:
